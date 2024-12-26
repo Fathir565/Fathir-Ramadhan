@@ -1,0 +1,3 @@
+{"_id":"Payment_001","customer_id":"001,Fathir Ramadhan","amount":500000,"payment_date":"14-10-2024","payment_method":"Cash"}
+{"_id":"Payment_002","customer_id":"002,Heru Budiono","amount":900000,"payment_date":"16-10-2024","payment_method":"Credit Card"}
+{"_id":"Payment_003","customer_id":"003,Riski Khaerul","amount":700000,"payment_date":"19-10-2024","payment_method":"Transfer Bank"}
